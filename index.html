@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Mapping Environment</title>
+
+    <!-- Leaflet library -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+      integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+      crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+      integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+      crossorigin=""></script>
+
+    <!-- Roboto font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- jQuery library -->
+    <script language="JavaScript" type="text/JavaScript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" media="all" href="style.css" type="text/css">
+
+    <!-- JS environment helper -->
+    <script language="JavaScript" type="text/JavaScript" src="js_environment.js"></script>
+
+    <!-- Main script -->
+    <script language="JavaScript" type="text/JavaScript" src="script.js"></script>
+
+  </head>
+  <body onload="initialize()">
+
+    <!-- Header bar -->
+    <div class="header">
+      
+      <!-- Title -->
+      <div class="title">
+        <h1>
+          JavaScript Mapping Environment
+        </h1>
+        <h2>
+          An in-browser scripting environment for geographic data.
+        </h2>
+      </div>
+
+      <!-- Instructions -->
+      <div class="instructions">
+        <div>
+          This application provides a scripting environment to explore and process geographic data.
+          Input layers can be added from GeoJSON URL endpoints and JavaScript can be written
+          to create a new GeoJSON layer visible on the map. Additional information is available in
+          the project
+          <a href="https://github.com/anth-dj/geog5012m_project/blob/main/README.md" target="_blank">README</a>.
+        </div>
+        <div>
+          <a href="#" onclick="loadExample()">Click here</a> to load example data that can be
+          examined and modified. The example data was obtained using the
+          <a href="https://eonet.sci.gsfc.nasa.gov/" target="_blank">EONET API</a>,
+          which is made available by NASA. Original data sources are embedded within
+          the GeoJSON.
+        </div>
+      </div>
+
+    </div>
+
+    <div class="main-content">
+
+      <!-- Map view -->
+      <div class="map-container">
+        <div id="map"></div>
+      </div>
+
+      <!-- Control panel -->
+      <div class="panel-container">
+
+        <!-- Input layer controls -->
+        <div class="section-container">
+          <div class="section-header input-layers-header">
+            <span class="section-title">Input Layers</span>
+            <input type="text" id="layerUrl" placeholder="GeoJSON URL"
+              title="URL to a GeoJSON source">
+            <button onclick="loadGeoJSONInput($('#layerUrl').val())"
+              title="Add GeoJSON layer from the specified URL">
+              Add
+            </button>
+          </div>
+
+          <!-- Input layers -->
+          <div class="input-layers section-body">
+            <table>
+              <tbody id="inputLayerTableBody">
+                <!-- Table content is filled synamically -->
+              </tbody>
+            </table>
+          </div>
+
+        </div>
+
+        <!-- Input for JavaScript source code -->
+        <div class="source-input">
+          <textarea id="sourceCode"></textarea>
+        </div>
+
+        <!-- Script output display -->
+        <div class="section-container">
+
+          <div class="section-header">
+            <span class="section-title">Console Output</span>
+            <button onclick="clearConsole()">
+              Clear Console
+            </button>
+          </div>
+
+          <!-- Console text output -->
+          <div class="section-body console-output" id="consoleOutput"></div>
+        </div>
+
+
+        <!-- Controls for running the source code -->
+        <div class="source-controls">
+
+          <!-- Status text -->
+          <div class="status-text-container">
+            <div id="statusText"></div>
+          </div>
+
+          <!-- Element used to divide-->
+          <div></div>
+
+          <!-- Control buttons -->
+          <div class="control-buttons">
+            <button onclick="clearScratchLayer()">
+              Clear Scratch Layer
+            </button>
+            <button onclick="runScript()">
+              Run
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,278 @@
+/* Main container */
+/* ============== */
+
+body {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.main-content {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.panel-container {
+  width: 40%;
+  min-width: 25em;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+/* ====== */
+
+.header {
+  height: 7em;
+  min-width: 50em;
+  padding: 1em;
+  color: white;
+  background: #3f3f48;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header a {
+  color: lightblue;
+}
+
+.header .title {
+  padding-right: 2em;
+}
+
+.header .title h1 {
+  font-size: 1.7em;
+  margin-top: 0;
+  white-space: nowrap;
+}
+.header .title h2 {
+  font-size: 1em;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.header .instructions {
+  padding: 0.5em;
+  font-size: 0.9em;
+  overflow-y: auto;
+  max-width: 60em;
+}
+
+.header .instructions > div {
+  margin-bottom: 1em;
+}
+
+.header .instructions :last-child {
+  margin-bottom: 0;
+}
+
+/* Map container */
+/* ============= */
+
+.map-container {
+  width: 60%;
+  min-width: 25em;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Input layer container */
+/* ===================== */
+
+.input-layers-header > * {
+  margin: 3px;
+}
+
+.input-layers-header input {
+  flex-grow: 1;
+}
+
+.input-layers {
+  height: 10em;
+  padding: 0.3em;
+  overflow: auto;
+}
+
+.input-layers table {
+  width: 100%;
+}
+
+.input-layers table .table-header {
+  font-weight: bold;
+}
+
+.input-layers table td {
+  padding: 2px;
+}
+
+.input-layers td {
+  padding-bottom: 0.5em;
+  font-size: 0.8em;
+}
+
+.input-layers td .input-layer-row {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.input-layers td .input-layer-row > * {
+  margin-right: 0.5em;
+}
+
+.input-layers td .input-layer-row .button-container {
+  flex-grow: 1;
+  text-align: right;
+}
+
+.input-layers .source {
+  color: grey;
+  width: 100%;
+}
+
+.layer-style-block {
+  display: inline-block;
+  min-width: 10px;
+  min-height: 10px;
+  width: 10px;
+  height: 10px;
+  vertical-align: middle;
+}
+
+/* Panel sections */
+/* ============== */
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  height: 10em;
+}
+
+.section-container,
+.source-controls {
+  background-color: #d9d9dc;
+}
+
+.section-container .section-header {
+  font-size: 0.9em;
+  font-weight: bold;
+  padding: 0.5em 0.5em 0 0.5em;
+  color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section-container .section-header .section-title {
+  padding-right: 0.5em;
+}
+
+.section-container .section-body {
+  background-color: #ffffff9e;
+  border-radius: 3px;
+  margin: 5px;
+}
+
+/* Source code container */
+/* ===================== */
+
+.source-input {
+  height: 100%;
+  padding: 0.3em;
+  background: #f3f3f3;
+}
+
+.source-input textarea {
+  resize: none;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  border: none;
+  background: #fffffff2;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+/* Console output */
+/* ============== */
+
+.console-output {
+  overflow: auto;
+  font-size: 0.8em;
+  height: 100%;
+}
+
+.console-output .output-entry {
+  padding: 0.5em;
+}
+
+.console-output pre.log-ERROR {
+  color: #c53333;
+}
+
+.console-output pre.log-WARN {
+  color: #8e7f0f;
+}
+
+.console-output pre.log-INFO {
+  color: #0058b5;
+}
+
+/* Source controls */
+/* =============== */
+
+.source-controls {
+  width: 100%;
+  height: 3em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.source-controls > * {
+  padding: 0.5em;
+}
+
+.source-controls button {
+  padding: 0.5em 1em;
+}
+
+.source-controls .status-text-container {
+  font-size: 0.8em;
+  width: 2em;
+}
+
+/* Leaflet styles */
+/* ============== */
+
+.leaflet-container {
+  background: #acacaf;
+}
+
+.leaflet-popup-content {
+  overflow: auto;
+  max-width: 30em;
+  max-height: 15em;
+}
+
+.leaflet-popup-content .title td {
+  padding-bottom: 1em;
+}
+
+.leaflet-popup-content table.property-table tr td:first-child {
+  font-weight: bold;
+  padding-right: 0.5em;
+}

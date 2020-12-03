@@ -1,0 +1,1729 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5169",
+        "title": "Tropical Cyclone Burevi",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5169/geojson",
+        "closed": null,
+        "date": "2020-12-01T12:00:00Z",
+        "magnitudeValue": 35,
+        "magnitudeUnit": "kts",
+        "categories": [
+          {
+            "id": "severeStorms",
+            "title": "Severe Storms"
+          }
+        ],
+        "sources": [
+          {
+            "id": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000748&amp;eventtype=TC"
+          },
+          {
+            "id": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/io0520.tcw"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8,
+          7.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5169",
+        "title": "Tropical Cyclone Burevi",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5169/geojson",
+        "closed": null,
+        "date": "2020-12-01T18:00:00Z",
+        "magnitudeValue": 35,
+        "magnitudeUnit": "kts",
+        "categories": [
+          {
+            "id": "severeStorms",
+            "title": "Severe Storms"
+          }
+        ],
+        "sources": [
+          {
+            "id": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000748&amp;eventtype=TC"
+          },
+          {
+            "id": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/io0520.tcw"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.3,
+          7.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5169",
+        "title": "Tropical Cyclone Burevi",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5169/geojson",
+        "closed": null,
+        "date": "2020-12-02T00:00:00Z",
+        "magnitudeValue": 45,
+        "magnitudeUnit": "kts",
+        "categories": [
+          {
+            "id": "severeStorms",
+            "title": "Severe Storms"
+          }
+        ],
+        "sources": [
+          {
+            "id": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000748&amp;eventtype=TC"
+          },
+          {
+            "id": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/io0520.tcw"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.5,
+          8.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5169",
+        "title": "Tropical Cyclone Burevi",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5169/geojson",
+        "closed": null,
+        "date": "2020-12-02T06:00:00Z",
+        "magnitudeValue": 40,
+        "magnitudeUnit": "kts",
+        "categories": [
+          {
+            "id": "severeStorms",
+            "title": "Severe Storms"
+          }
+        ],
+        "sources": [
+          {
+            "id": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000748&amp;eventtype=TC"
+          },
+          {
+            "id": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/io0520.tcw"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4,
+          8.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5168",
+        "title": "Wildfire - Queensland (Fraser Island Fire), Australia",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5168/geojson",
+        "closed": null,
+        "date": "2020-11-25T16:50:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116875"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.08312,
+          -25.33938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5162",
+        "title": "Wildfire - SE of Parowan, Utah - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5162/geojson",
+        "closed": null,
+        "date": "2020-11-19T09:40:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116718"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.682747893,
+          37.600131437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5163",
+        "title": "Wildfires - Washoe County (Pinehaven Fire), Nevada, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5163/geojson",
+        "closed": null,
+        "date": "2020-11-18T13:59:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116699"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86343,
+          39.46996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5159",
+        "title": "Wildfire - S of Carson City (Mountain View Fire), Nevada - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5159/geojson",
+        "closed": null,
+        "date": "2020-11-17T21:39:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116682"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.46311,
+          38.52867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5160",
+        "title": "Mountain View Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5160/geojson",
+        "closed": null,
+        "date": "2020-11-17T14:30:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7270/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.466,
+          38.528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5164",
+        "title": "Laura 2 Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5164/geojson",
+        "closed": null,
+        "date": "2020-11-17T12:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7269/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.115,
+          40.334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5158",
+        "title": "Wildfire - E of San Luis Obispo, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5158/geojson",
+        "closed": null,
+        "date": "2020-11-15T21:36:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116627"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.061260109,
+          35.381541734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5166",
+        "title": "White Island Volcano, New Zealand",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5166/geojson",
+        "closed": null,
+        "date": "2020-11-12T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=241040"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.18,
+          -37.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5154",
+        "title": "Wildfire - N of Coos Bay, Oregon - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5154/geojson",
+        "closed": null,
+        "date": "2020-11-11T21:34:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116416"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.051218623,
+          44.001959109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5153",
+        "title": "Wildfire - S of Coos Bay, Oregon - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5153/geojson",
+        "closed": null,
+        "date": "2020-11-10T21:32:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116368"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.19652481,
+          43.227450629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5152",
+        "title": "Wildfires - Tipaza Province, Algeria",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5152/geojson",
+        "closed": null,
+        "date": "2020-11-09T19:31:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116336"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43675,
+          36.57732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5155",
+        "title": "Barren Island Volcano, India",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5155/geojson",
+        "closed": null,
+        "date": "2020-11-05T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=260010"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.855,
+          12.278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5147",
+        "title": "Wildfire - Pinto Commune (Reserva Nuble Fire), Chile",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5147/geojson",
+        "closed": null,
+        "date": "2020-11-04T16:34:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=116189"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.89475,
+          -36.7036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5148",
+        "title": "Katmai Volcano, Alaska",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5148/geojson",
+        "closed": null,
+        "date": "2020-10-31T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=312170"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.963,
+          58.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5142",
+        "title": "Sourdough Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5142/geojson",
+        "closed": null,
+        "date": "2020-10-30T14:30:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7259/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.975,
+          44.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5141",
+        "title": "Wildfire - N of Yuba City, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5141/geojson",
+        "closed": null,
+        "date": "2020-10-28T21:31:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115951"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.616565331,
+          39.238977316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5136",
+        "title": "Wildfires - Orange County (Blue Ridge Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5136/geojson",
+        "closed": null,
+        "date": "2020-10-27T14:19:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115888"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71842,
+          33.91234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5135",
+        "title": "Wildfires - Orange County (Silverado Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5135/geojson",
+        "closed": null,
+        "date": "2020-10-26T14:36:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115856"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71015,
+          33.72346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5139",
+        "title": "Bezymianny Volcano, Russia",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5139/geojson",
+        "closed": null,
+        "date": "2020-10-22T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=300250"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.595,
+          55.972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5132",
+        "title": "Habanero Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5132/geojson",
+        "closed": null,
+        "date": "2020-10-21T09:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7252/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.984,
+          33.272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5140",
+        "title": "Karymsky Volcano, Russia",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5140/geojson",
+        "closed": null,
+        "date": "2020-10-21T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=300130"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.443,
+          54.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5128",
+        "title": "Wildfire - Boulder County (Calwood Fire), Colorado, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5128/geojson",
+        "closed": null,
+        "date": "2020-10-18T16:23:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115610"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382,
+          40.154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5127",
+        "title": "Calwood Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5127/geojson",
+        "closed": null,
+        "date": "2020-10-17T12:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7245/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.381,
+          40.153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5131",
+        "title": "Luna Fire ",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5131/geojson",
+        "closed": null,
+        "date": "2020-10-17T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7246/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.339,
+          36.264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5124",
+        "title": "Wildfire - SW of Sacramento, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5124/geojson",
+        "closed": null,
+        "date": "2020-10-16T21:33:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115574"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.901104509,
+          38.40326501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5125",
+        "title": "Wildfire - Yavapai County (Horse Fire), Arizona, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5125/geojson",
+        "closed": null,
+        "date": "2020-10-16T15:23:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115564"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.39807,
+          34.24461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5120",
+        "title": "Wildfire - W of Gila Bend, Arizona - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5120/geojson",
+        "closed": null,
+        "date": "2020-10-15T21:32:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115554"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.498791012,
+          32.979208565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5122",
+        "title": "Wildfires - San Bernardino (Bruder Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5122/geojson",
+        "closed": null,
+        "date": "2020-10-15T15:44:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115549"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14438,
+          34.00774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5121",
+        "title": "Wildfires - Grand County (East Troublesome Fire), Colorado, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5121/geojson",
+        "closed": null,
+        "date": "2020-10-15T15:36:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115548"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.22391,
+          40.19387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5126",
+        "title": "Horse Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5126/geojson",
+        "closed": null,
+        "date": "2020-10-15T11:42:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7244/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.419,
+          34.275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5123",
+        "title": "East Troublesome Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5123/geojson",
+        "closed": null,
+        "date": "2020-10-14T16:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7242/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.234,
+          40.201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5118",
+        "title": "Wildfire - N of Yuba City, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5118/geojson",
+        "closed": null,
+        "date": "2020-10-12T21:46:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115488"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.621073319,
+          39.258427654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5111",
+        "title": "Wildfires - Bighorn No 8 (Devils Head Fire), Alberta, Canada",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5111/geojson",
+        "closed": null,
+        "date": "2020-10-08T14:55:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115342"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.16278,
+          51.30675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5119",
+        "title": "Telica Volcano, Nicaragua",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5119/geojson",
+        "closed": null,
+        "date": "2020-10-07T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=344040"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.84,
+          12.606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5112",
+        "title": "Encinos Fire ",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5112/geojson",
+        "closed": null,
+        "date": "2020-10-06T19:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7235/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.624,
+          31.623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5109",
+        "title": "Wildfires - South Island, New Zealand",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5109/geojson",
+        "closed": null,
+        "date": "2020-10-06T14:39:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115277"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.88851,
+          -43.50195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5108",
+        "title": "Wildfires - Zapallar and Papudo Communes (Cerro Las Puntas Fire), Chile",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5108/geojson",
+        "closed": null,
+        "date": "2020-10-05T18:27:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115241"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.37083,
+          -32.52283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5105",
+        "title": "Wildfire - NE of Luhansk, Luhansk - Ukraine",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5105/geojson",
+        "closed": null,
+        "date": "2020-10-04T22:39:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115219"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.480200049,
+          48.646989687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5106",
+        "title": "Yogo Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5106/geojson",
+        "closed": null,
+        "date": "2020-10-03T13:13:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7229/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.545,
+          46.915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5110",
+        "title": "Klyuchevskoy Volcano, Russia",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5110/geojson",
+        "closed": null,
+        "date": "2020-10-02T00:00:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "volcanoes",
+            "title": "Volcanoes"
+          }
+        ],
+        "sources": [
+          {
+            "id": "SIVolcano",
+            "url": "http://volcano.si.edu/volcano.cfm?vn=300260"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.642,
+          56.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5101",
+        "title": "Wildfire - SE of Lysychansk, Luhansk - Ukraine",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5101/geojson",
+        "closed": null,
+        "date": "2020-10-01T13:40:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=115089"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.678984804,
+          48.823428824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5095",
+        "title": "Wildfire - Shasta County (Zogg Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5095/geojson",
+        "closed": null,
+        "date": "2020-09-28T16:43:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114937"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.60318,
+          40.45994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5093",
+        "title": "Wildfire - NE of Santa Rosa, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5093/geojson",
+        "closed": null,
+        "date": "2020-09-27T21:32:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114925"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.486063551,
+          38.573150721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5089",
+        "title": "Wildfire - N of Scottsdale, Arizona - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5089/geojson",
+        "closed": null,
+        "date": "2020-09-26T21:32:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114897"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.789869121,
+          33.915589412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5088",
+        "title": "Sears Fire",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5088/geojson",
+        "closed": null,
+        "date": "2020-09-25T14:45:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7218/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.816,
+          33.883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5085",
+        "title": "Wildfire - E of Chico, California - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5085/geojson",
+        "closed": null,
+        "date": "2020-09-21T21:32:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114722"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.073960802,
+          39.767262777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5078",
+        "title": "Wildfire - Carbon County (Mullen Fire), Wyoming, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5078/geojson",
+        "closed": null,
+        "date": "2020-09-18T15:11:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7208/"
+          },
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114597"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.42612,
+          41.17102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5077",
+        "title": "Wildfire - S of Twin Falls (Badger Fire), Idaho - United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5077/geojson",
+        "closed": null,
+        "date": "2020-09-17T21:33:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7196/"
+          },
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114569"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22943,
+          42.11774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EONET_5069",
+        "title": "Wildfires - Siskiyou County (Fox Fire), California, United States",
+        "description": null,
+        "link": "https://eonet.sci.gsfc.nasa.gov/api/v3/events/EONET_5069/geojson",
+        "closed": null,
+        "date": "2020-09-17T14:18:00Z",
+        "magnitudeValue": null,
+        "magnitudeUnit": null,
+        "categories": [
+          {
+            "id": "wildfires",
+            "title": "Wildfires"
+          }
+        ],
+        "sources": [
+          {
+            "id": "InciWeb",
+            "url": "http://inciweb.nwcg.gov/incident/7203/"
+          },
+          {
+            "id": "PDC",
+            "url": "http://emops.pdc.org/emops/?hazard_id=114537"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85579,
+          41.2367
+        ]
+      }
+    }
+  ]
+}
